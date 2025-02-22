@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "SUPER_TRUNFODG.C": "cpp",
+        "SUPER_TRUNFODOUGLAS.C": "cpp",
+        "SUPER_TRUNFONVDG.C": "cpp"
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
